@@ -30,7 +30,10 @@ Line Number		| HEADING		| HEADING		| HEADING		| HEADING		| HEADING		|
 public class P2_SlashesAndBangs {
 
 	public static void main(String[] args) {
-
+		 System.out.println("\\");
+		    System.out.println("\\\\");
+		    System.out.println("\\\\\");
+		    System.out.println("\\\\");
 	}
 
 }

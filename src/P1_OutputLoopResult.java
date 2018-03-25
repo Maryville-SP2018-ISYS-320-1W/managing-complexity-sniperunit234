@@ -18,7 +18,7 @@ public class P1_OutputLoopResult {
 			finalResult = finalResult + i * i;
 		}
 		
-		System.out.println( "Final result is: " + finalResult );
+		System.out.println( "Final result is: " + " finalResult " );
 	}
 
 }
